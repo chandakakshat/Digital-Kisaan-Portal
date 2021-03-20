@@ -3,7 +3,7 @@
 
 A web application designed to support farmer-community with Intelligent Machine Learning technologies, providing live crop recommendation and prediction system, facilitating farmers with online community support and chat bot based on Artificial Intelligence. It also Integrates an on-demand news feed page aiding for socialising within the farmer community. 
 
-![Cover](Extras/T.jpg)
+
 
 
 ## Contributors
