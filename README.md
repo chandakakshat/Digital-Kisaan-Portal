@@ -37,6 +37,18 @@ Amazon Lex provides the advanced deep learning functionalities of automatic spee
 In Agriculture, mostly crops are loss due to the erroneous selection of the crop to be grown in a particular land holding. The farmers can obtain a data about their surroundings i.e. the minerals, soil moisture and ph, (N P K) values and Temperature. But a lot of times they end up cultivating wrong crops. This can cause a distress to farmer both mentally and financially.
 This problem of farmer is addressed in our design issue and we have tried to solve it with the help of a Recommendation System. 
 
+**Communtity Build**  
+
+This is the self-growing platform where farmers can post their day to day challenges faced and other people and experts can provide them or post solutions for issues.
+
+**Government Schemes**  
+
+This keeps farmers informed about state intended government schemes and subsidies for availing benefits with the complete procedure to apply  
+
+**News Feed**  
+
+This is the platform where farmers can share and give views about different emerging technologies and they can also share and socialize their success using this platform
+
 
 ## Salient Features
 
