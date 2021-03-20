@@ -1,10 +1,10 @@
 # Digital-Kisaan-Portal
-***
+
 
 A web application designed to support farmer-community with Intelligent Machine Learning technologies, providing live crop recommendation and prediction system, facilitating farmers with online community support and chat bot based on Artificial Intelligence. It also Integrates an on-demand news feed page aiding for socialising within the farmer community. 
 
 ## Contributors
-***
+
 * [Akshat Chandak](https://github.com/chandakakshat)
 * [Sakshi Nema](https://github.com/sakshinema)
 * [Shreyas Nemani](https://github.com/superb-shreyas)
@@ -57,4 +57,7 @@ You can also install it from here :
 
 [Pandas](https://pandas.pydata.org/)  
 [Scikit-learn](https://scikit-learn.org/stable/install.html)
+
+
+##  License
 
