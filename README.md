@@ -44,6 +44,10 @@ The dataset is in the form of CSV file  containing features such as N, P, K, Val
 It’s an AWS LEX Chat bot for aiding users with their immediate queries regarding website and engages farmers more efficiently 
 Amazon Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text
 
+**Recommedation System**
+In Agriculture, mostly crops are loss due to the erroneous selection of the crop to be grown in a particular land holding. The farmers can obtain a data about their surroundings i.e. the minerals, soil moisture and ph, (N P K) values and Temperature. But a lot of times they end up cultivating wrong crops. This can cause a distress to farmer both mentally and financially.
+This problem of farmer is addressed in our design issue and we have tried to solve it with the help of a Recommendation System. 
+
 
 ## Dependancies
 
