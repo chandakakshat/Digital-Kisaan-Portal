@@ -3,7 +3,7 @@
 
 A web application designed to support farmer-community with Intelligent Machine Learning technologies, providing live crop recommendation and prediction system, facilitating farmers with online community support and chat bot based on Artificial Intelligence. It also Integrates an on-demand news feed page aiding for socialising within the farmer community. 
 
-
+![](Extras/Cover.jpg)
 
 
 ## Contributors
@@ -21,7 +21,7 @@ India has enough food; does it have too many people working in agriculture? The 
 With the help of Digital Kisaan Portal we address the problems faced using Live crop prediction and recommendation for precise agricultural practices with a growing support community to help farmers with their day to day challenges and also socializing their success.
 
 
-![](resources/theme.jpg "Title")
+
 
 ## Dataset
 
