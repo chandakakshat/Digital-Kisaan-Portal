@@ -71,3 +71,5 @@ You can also install it from here :
 ##  License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This Project is open source, intended for NMIT Hackathon, protected under [MIT](https://opensource.org/licenses/MIT) license.
