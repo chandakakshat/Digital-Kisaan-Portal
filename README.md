@@ -68,7 +68,6 @@ You can also install it from here :
 
 
 
-
-
 ##  License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
