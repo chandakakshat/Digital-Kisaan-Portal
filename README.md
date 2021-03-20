@@ -24,18 +24,6 @@ With the help of Digital Kisaan Portal we address the problems faced using Live 
 
 The dataset is in the form of CSV file  containing features such as N, P, K, Value, Temperature, Humidity, pH and Crops.
 
-## Salient Features
-
-* Live Crop Prediction
-* Crop Recommendation : Accuracy 99.75%
-* Chat Bot
-* Continuous data for crop data
-* Online Community Support 
-* Social News feed page
-* Detailed State Intended government scheme and subsidies 
-* User Friendly Application
-
-
 
 ## Modules Implemented
 
@@ -48,6 +36,19 @@ Amazon Lex provides the advanced deep learning functionalities of automatic spee
   
 In Agriculture, mostly crops are loss due to the erroneous selection of the crop to be grown in a particular land holding. The farmers can obtain a data about their surroundings i.e. the minerals, soil moisture and ph, (N P K) values and Temperature. But a lot of times they end up cultivating wrong crops. This can cause a distress to farmer both mentally and financially.
 This problem of farmer is addressed in our design issue and we have tried to solve it with the help of a Recommendation System. 
+
+
+## Salient Features
+
+* Live Crop Prediction
+* Crop Recommendation : Accuracy 99.75%
+* Chat Bot
+* Continuous data for crop data
+* Online Community Support 
+* Social News feed page
+* Detailed State Intended government scheme and subsidies 
+* User Friendly Application
+
 
 
 ## Dependancies
