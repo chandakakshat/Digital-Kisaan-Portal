@@ -86,6 +86,10 @@ You can also install it from here :
 [Pandas](https://pandas.pydata.org/)  
 [Scikit-learn](https://scikit-learn.org/stable/install.html)
 
+## Screenshots
+
+![](Screenshot/1.jpeg)
+
 
 
 
