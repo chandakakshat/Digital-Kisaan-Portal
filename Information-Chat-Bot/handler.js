@@ -26,3 +26,7 @@ module.exports.getWeather = async (event) => {
     console.log(error);
   }
 };
+
+
+
+
