@@ -88,7 +88,7 @@ You can also install it from here :
 
 ## Screenshots
 
-![](Screenshot/1.jpeg)
+![](ScreenShot/1.jpeg)
 
 
 
