@@ -55,6 +55,7 @@ This is the platform where farmers can share and give views about different emer
 
 ## Salient Features
 
+
 * Crop Prediction
 * Live Crop Recommendation : Accuracy 99.75%
 * Chat Bot
@@ -63,7 +64,8 @@ This is the platform where farmers can share and give views about different emer
 * Social News feed page
 * Detailed State Intended government scheme and subsidies 
 * User Friendly Application
-
+* Available in 250+ languages
+* Organic Farming Portal
 
 
 ## Dependancies
